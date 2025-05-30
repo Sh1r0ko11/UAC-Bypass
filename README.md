@@ -8,7 +8,7 @@
 
 - Uses JavaSript to check if operations Failed or succeeded 
 
--Python for ,,Low Level,, Operations and Encryption 
+- Python for ,,Low Level,, Operations and Encryption 
 
 -
 
