@@ -25,3 +25,8 @@
 - **EXECUTION**
 To execute and Activate The UAC Bypass you have to execute the **UAC.py** file *make sure you have every file in a same folder in the same path!*
 
+# Languages used:
+- JavaScript
+- Java
+- Python
+- html
