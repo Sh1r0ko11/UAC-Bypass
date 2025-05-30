@@ -12,3 +12,8 @@
 
 - And other Stuff :)
 
+
+# About the Project 
+
+• This project was made to test Windows Security Features and was NOT designed for Malicious or illegal acts such as --- gaining access without authorization.
+
