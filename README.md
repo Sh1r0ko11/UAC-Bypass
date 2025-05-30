@@ -20,8 +20,8 @@
 
 # How to use it
 
-- This project has some files and is **not** compiled to an .exe because of research and safety purposes! If you ever implement this into you're Programm you HAVE to use all files, eith blank code in it.
+- This project has some files and is **not** compiled to an .exe because of research and safety purposes! If you ever implement this into you're Programm you HAVE to use all files, with blank code in it.
 
 - **EXECUTION**
-To execute and Activate The UAC Bypass you have to execute the **UAC.py** file *make sure you have every file in a same folder ind the same path!*
+To execute and Activate The UAC Bypass you have to execute the **UAC.py** file *make sure you have every file in a same folder in the same path!*
 
